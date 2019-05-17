@@ -1,5 +1,5 @@
 # 使用 mybatis-generator 自动生成mybatis文件
-## 使用命令行生成的不带注释的mybatis文件
+### 使用命令行生成的不带注释的mybatis文件
 1. 修改 `generatorConfig.xml` 文件的 `<commentGenerator>` 标签如下：
     ```xml
     <!-- 在创建class时，对注释进行控制 -->
@@ -14,7 +14,7 @@
     ```
 3. 启动后自动生成不带注释的mybatis文件
 
-## 使用自定义类 MyCommentGenerator 生成实体类注释
+### 使用自定义类 MyCommentGenerator 生成实体类注释
 1.  修改 `generatorConfig.xml` 文件的 `<commentGenerator>` 标签如下：
     ```xml
     <!-- 在创建class时，对注释进行控制 -->
