@@ -1,4 +1,4 @@
-package com.sinosoft.generator;
+package com.demo.generator;
 
 import java.io.IOException;
 import java.io.InputStream;

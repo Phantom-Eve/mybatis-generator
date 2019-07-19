@@ -18,7 +18,7 @@
 1.  修改 `generatorConfig.xml` 文件的 `<commentGenerator>` 标签如下：
     ```xml
     <!-- 在创建class时，对注释进行控制 -->
-    <commentGenerator type="com.sinosoft.generator.MyCommentGenerator">
+    <commentGenerator type="com.demo.generator.MyCommentGenerator">
         <property name="suppressDate" value="true"/>
         <property name="suppressAllComments" value="false"/>
     </commentGenerator>
