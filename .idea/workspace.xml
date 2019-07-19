@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e73b4a-b943-4467-9ada-4f40f1469177" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/mapping/.gitgnore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/sysManage/model/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d2645732-ac1f-4853-8bc8-a4dd55582416.xml" beforeDir="false" />
@@ -13,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-generator.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/generator/MyCommentGenerator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/generator/StartUp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/generator.properties" beforeDir="false" />
@@ -58,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="3" />
           <entry key="java" value="25" />
           <entry key="properties" value="90" />
           <entry key="txt" value="22" />
@@ -68,7 +67,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="25" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="PLAIN_TEXT" value="25" />
           <entry key="Properties" value="90" />
           <entry key="XML" value="506" />
         </counts>
@@ -77,7 +76,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="gitgnore" value="2" />
-          <entry key="gitignore" value="4" />
+          <entry key="gitignore" value="5" />
           <entry key="iml" value="1" />
           <entry key="java" value="91" />
           <entry key="properties" value="9" />
@@ -90,7 +89,7 @@
           <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="91" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="Properties" value="9" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="43" />
@@ -142,12 +141,21 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/model/.gitgnore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/mapping/.gitgnore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -224,8 +232,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/mapping/YBT_QuoteMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/CodeConvertMapper.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -401,7 +409,7 @@
     <property name="SearchEverywhereHistoryKey" value="YBT_GradeTask&#9;PSI&#9;JAVA://com.sinosoft.quoteManage.dao.YBT_GradeTaskMapper&#10;DefaultXmlFormatter&#9;FILE&#9;jar://E:/Maven/repository/org/mybatis/generator/mybatis-generator-core/1.3.2/mybatis-generator-core-1.3.2.jar!/org/mybatis/generator/api/dom/DefaultXmlFormatter.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563549729439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563550650480" />
     <property name="last_opened_file_path" value="D:/Users/Phantom/Documents/sinosoft/巨灾系统/巨灾系统/sourcecodeNew/巨灾模块/gscore-pa-core" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -411,6 +419,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitHub\mybatis-generator\src\main\java\com\demo\sysManage\dao" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.sinosoft.quoteManage.dao" />
     </key>
@@ -541,15 +552,16 @@
       <workItem from="1560505463539" duration="1389000" />
       <workItem from="1561623422609" duration="1800000" />
       <workItem from="1563544799759" duration="2397000" />
-      <workItem from="1563549609194" duration="371000" />
+      <workItem from="1563549609194" duration="1036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32206000" />
+    <option name="totallyTimeSpent" value="32871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -680,7 +692,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/DemoMapper.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/model/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/mapping/DemoMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/model/CodeConvert.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -712,14 +723,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/model/.gitgnore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/mapping/.gitgnore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/sysManage/dao/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
